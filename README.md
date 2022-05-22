@@ -22,4 +22,4 @@ cd get_next_line
 make
 ```
 
-P.S. After compilation, you can use this function to read lines in a file by a specific file descriptor.
+After compilation, you can use this function to read lines in a file by a specific file descriptor.
